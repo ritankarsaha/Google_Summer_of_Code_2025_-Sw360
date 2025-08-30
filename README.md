@@ -2,14 +2,14 @@
 # SW360
 
 
-**Contributor:** Ritankar Saha 
+**Contributor:** Ritankar Saha <br>
 **Email:** [ritankar.saha786@gmail.com](ritankar.saha786@gmail.com)  
 **Github:** [ritankarsaha](https://github.com/ritankarsaha)   
 **LinkedIn:** [Ritankar Saha](https://www.linkedin.com/in/ritankar-saha-8041b9289/)   
 **Organization:** [SW360](https://github.com/eclipse-sw360/sw360)    
-**Project Topic:** [Improving Integration of SW360 with FOSSology](https://github.com/eclipse-sw360/sw360/discussions/2868#discussioncomment-11914065) 
-**Initial Proposal Document:** [Improving Integration of SW360 with FOSSology](https://docs.google.com/document/d/1sdvsYlP0pN1dBAgNgK1af0vCcMywP0gIvDyteEy3aZo/edit?usp=sharing)
-**Mentors:** [Gaurav Mishra](https://github.com/gmishx/), Amrit Kumar Verma, Katharina Ettinger
+**Project Topic:** [Improving Integration of SW360 with FOSSology](https://github.com/eclipse-sw360/sw360/discussions/2868#discussioncomment-11914065) <br>
+**Initial Proposal Document:** [Improving Integration of SW360 with FOSSology](https://docs.google.com/document/d/1sdvsYlP0pN1dBAgNgK1af0vCcMywP0gIvDyteEy3aZo/edit?usp=sharing)<br>
+**Mentors:** [Gaurav Mishra](https://github.com/gmishx/), Amrit Kumar Verma, Katharina Ettinger <br>
 **Project Duration:** 350 Hours   
 
 ---
@@ -91,6 +91,8 @@ New POJOs / model classes for:
 
 Deprecated v1 usage entirely (v1 endpoints no longer referenced) and successfully migrated to v2 endpoints.
 
+PR Work and API Testing
+
 - **Link to PR:** [PR for Phase 1 - v2 Endpoints Refactor](https://github.com/eclipse-sw360/sw360/pull/3264)
 - **Live Demo:** [Working Demo Demonstration](https://github.com/user-attachments/assets/4b6e6f21-2e0c-41d5-921c-70abd1e98cd2)
 - **Proper API Endpoint Testing** [Proper API Testing and Description](https://github.com/eclipse-sw360/sw360/pull/3264#issue-3215689391)
@@ -137,6 +139,8 @@ A bunch of new API Endpoints have been implemented in this PR, some of them are 
 - POST /resource/api/releases/{releaseId}/filesearch/advanced
 - GET /resource/api/filesearch/cache/status (if you exposed cache metrics)
 
+PR Work and API Testing :-
+
 - **Link to PR:** [PR for Phase 2 - Checksum, file search functionality and reuse functionality](https://github.com/eclipse-sw360/sw360/pull/3297)
 - **Proper API Endpoint Testing** [Proper API Testing and Description](https://github.com/eclipse-sw360/sw360/pull/3297#issue-3264636301)
 Please visit the last link for more details on API testing and Changelog and Issue Description and proper API Endpoints Responses.
@@ -173,11 +177,11 @@ configurations
 - Option Conversion: Automatic conversion between REST and Thrift data models
 - Workflow Integration: Seamless integration with existing FOSSology process management
 
+PR Work and API Testing :-
+
 - **Link to PR:** [PR for Phase 3 - Checksum, Configurable Scan Options via REST API](https://github.com/eclipse-sw360/sw360/pull/3341)
 - **Proper API Endpoint Testing** [Proper API Testing and Description](https://github.com/eclipse-sw360/sw360/pull/3341#issue-3317458982)
 Please visit the last link for more details on API testing and Changelog and Issue Description and proper API Endpoints Responses.
-
-### Phase 4: Native Widget Integration (Weeks 8-12)
 
 
 ### Technology Stack
@@ -185,7 +189,6 @@ Please visit the last link for more details on API testing and Changelog and Iss
 - **Backend:** Java (SpringBoot)
 - **Database:** CouchDB
 - **Others** Apache Tomcat, Maven, FOSSology
-
 
 
 ## Acknowledgments

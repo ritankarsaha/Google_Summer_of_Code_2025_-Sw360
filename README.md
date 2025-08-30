@@ -203,6 +203,15 @@ Please visit the last link for more details on API testing and Changelog and Iss
 - **Database:** CouchDB
 - **Others** Apache Tomcat, Maven, FOSSology
 
+## Timeline made by my Mentors and me
+
+[Timeline for the Project](https://fossil-fig-740.notion.site/SW360-Project-208faa8555c48046ae83cf92b7c7f360?pvs=73)
+
+
+## GSoC'25 Selection Blog
+
+[GSoC'25 Selection Blog](https://medium.com/@ritankar.saha786/cracking-the-google-summer-of-code-2025-6968cdffedd1)
+
 
 ## Acknowledgments
 

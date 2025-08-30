@@ -1,5 +1,18 @@
 # Google Summer of Code 2025
+
+<p align="center">
+  <img width="225" height="225" alt="Google Summer of Code 2025" src="https://github.com/user-attachments/assets/a95defc9-0a38-4e1d-8ce1-71fd1ea288a2" />
+</p>
+
+---
+
 # SW360
+
+<p align="center">
+  <img width="397" height="127" alt="SW360" src="https://github.com/user-attachments/assets/46af74d3-7a11-4760-877d-3e1dc2f8356b" />
+</p>
+
+
 
 
 **Contributor:** Ritankar Saha <br>
